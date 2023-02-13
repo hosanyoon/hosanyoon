@@ -9,12 +9,13 @@
 - 🌱 I’m currently learning computer science.
 - 💬 Ask me about anything.
 - 📫 How to reach me: yoonhosan@naver.com
+
 <br/> 
 <br/> 
+
 ### 📝 Experiences and Skills
 ---
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-<img src="https://img.shields.io/badge/SpringBoot-바탕색?style=flat&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /><img src="https://img.shields.io/badge/SpringBoot-바탕색?style=flat&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-바탕색?style=flat&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringSecurity-바탕색?style=flat&logo=SpringSecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS EC2-black?style=flat&logo=Amazon EC2&logoColor=white"/>
